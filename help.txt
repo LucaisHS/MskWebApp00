@@ -1,0 +1,13 @@
+requirements.txt => colocar todas as bibliotecas nesse arquivo
+
+webApp00.py => st == streamlit (
+    st.title = titulo $[ usar uma unica vez[recomendação]$]
+    st.header = titulo
+    st.subheadr = subtitulo
+    st.write = [
+        faz tudo que o print faz,
+        exibe tudo, inclusive figura, tabelas, graficos
+    ]
+)
+
+procfile.txt => vai rodar o arquivo principal $[colocar o nome do arquivo principal dentro do comando]$
